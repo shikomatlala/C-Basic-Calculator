@@ -1,0 +1,10 @@
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CalculatorWithMethods\CalculatorWithMethods\bin\Debug\CalculatorWithMethods.exe.config
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CalculatorWithMethods\CalculatorWithMethods\bin\Debug\CalculatorWithMethods.exe
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CalculatorWithMethods\CalculatorWithMethods\bin\Debug\CalculatorWithMethods.pdb
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CalculatorWithMethods\CalculatorWithMethods\obj\Debug\CalculatorWithMethods.csprojAssemblyReference.cache
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CalculatorWithMethods\CalculatorWithMethods\obj\Debug\CalculatorWithMethods.Properties.Resources.resources
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CalculatorWithMethods\CalculatorWithMethods\obj\Debug\CalculatorWithMethods.csproj.GenerateResource.cache
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CalculatorWithMethods\CalculatorWithMethods\obj\Debug\CalculatorWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CalculatorWithMethods\CalculatorWithMethods\obj\Debug\CalculatorWithMethods.exe
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CalculatorWithMethods\CalculatorWithMethods\obj\Debug\CalculatorWithMethods.pdb
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\CalculatorWithMethods\CalculatorWithMethods\obj\Debug\CalculatorWithMethods.Calculator.resources
